@@ -1,0 +1,6 @@
+{
+  "name": "SG CarPark Live",
+  "description": "Real-time carpark lot availability across HDB, LTA, and URA in Singapore with search, interactive map, and nearby parking list powered by LTA DataMall.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
